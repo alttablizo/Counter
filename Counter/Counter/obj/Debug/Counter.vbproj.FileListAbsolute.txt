@@ -1,0 +1,11 @@
+C:\Users\Almira\source\repos\Counter\Counter\bin\Debug\Counter.exe.config
+C:\Users\Almira\source\repos\Counter\Counter\bin\Debug\Counter.exe
+C:\Users\Almira\source\repos\Counter\Counter\bin\Debug\Counter.pdb
+C:\Users\Almira\source\repos\Counter\Counter\bin\Debug\Counter.xml
+C:\Users\Almira\source\repos\Counter\Counter\obj\Debug\Counter.vbprojAssemblyReference.cache
+C:\Users\Almira\source\repos\Counter\Counter\obj\Debug\Counter.Form1.resources
+C:\Users\Almira\source\repos\Counter\Counter\obj\Debug\Counter.Resources.resources
+C:\Users\Almira\source\repos\Counter\Counter\obj\Debug\Counter.vbproj.GenerateResource.cache
+C:\Users\Almira\source\repos\Counter\Counter\obj\Debug\Counter.exe
+C:\Users\Almira\source\repos\Counter\Counter\obj\Debug\Counter.xml
+C:\Users\Almira\source\repos\Counter\Counter\obj\Debug\Counter.pdb
